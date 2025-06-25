@@ -44,11 +44,3 @@ The project involves:
 ## 📁 Dataset
 
 Datasets were obtained from BIS, RBI, World Bank and Investing.com
-
----
-
-
-## 🧠 Author
-
-**G Parikshith**  
-Manipal Institute of Technology  
